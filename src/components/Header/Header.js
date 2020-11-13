@@ -7,14 +7,14 @@ import "../../css/header.css";
 class Header extends Component {
   render() {
     return (
-      <div className="header">
+      <div>
         <Grid
           container
           direction="row"
           justify="center"
           alignItems="center"
           spacing={3}
-        >
+          className="header">
           <Grid item xs>
             <Logo />
           </Grid>

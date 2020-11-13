@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class Logo extends Component {
   render() {
-    return <div>Logo</div>;
+    return <div style={{ margin: "0px" }}>Alquileres</div>;
   }
 }
 

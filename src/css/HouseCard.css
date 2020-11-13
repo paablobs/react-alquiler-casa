@@ -1,0 +1,29 @@
+.housecard-container {
+  padding: 0 0 50px 0 !important;
+}
+
+.root {
+  max-width: 545px;
+}
+
+.media {
+  height: 0;
+  padding-top: 56.25%;
+}
+
+.expand {
+  transform: rotate(0deg);
+  margin-left: auto;
+}
+
+.expandOpen {
+  transform: rotate(180deg);
+}
+
+.avatar {
+  background-color: red !important;
+}
+
+.favourite {
+  color: red !important;
+}
